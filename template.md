@@ -6,3 +6,13 @@ ProgLangName
 - How to setup an environment to use it in different platforms
 - Example codes
 - Things that are specific to this language?
+
+________________________________________________
+
+History of the language - Enes
+What JavaScript can do and it's advantages - Kaan
+How to Use it? - Enes
+Some commonly used JavaScript Examples - Kaan
+What is Ajax - Kaan
+
+________________________________________________
